@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/66022a190973993ed05cfef6?variant=dark)](https://roadmap.sh)
 <!--
 **chphoom/chphoom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
