@@ -13,7 +13,7 @@ Let's connect and explore the endless possibilities of tech together. Feel free 
 
 #SoftwareEngineer #TechEnthusiast #RecentGrad #FullStackDeveloper #ProblemSolver
 
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/66022a190973993ed05cfef6?variant=dark)](https://roadmap.sh)
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/66022a190973993ed05cfef6?variant=dark&roadmaps=full-stack%2Cai-data-scientist)](https://roadmap.sh)
 <!--
 **chphoom/chphoom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
