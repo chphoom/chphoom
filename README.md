@@ -1,9 +1,9 @@
-## 🚀 Passionate Computer Science New Grad | Software Engineer 🖥️ | Problem Solver 🛠️
+## 🚀 Passionate Computer Science Grad Student | Software Engineer 🖥️ | Problem Solver 🛠️
 
-Greetings! 👋 I'm Chalisa "Keaw" Phoomsakha, a recent Computer Science graduate from the University of North Carolina at Chapel Hill 
+Greetings! 👋 I'm Chalisa "Keaw" Phoomsakha, a Computer Science graduate student from the Georgia Institute of Technology. I also attended the University of North Carolina at Chapel Hill for my BSCS.
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/North_Carolina_Tar_Heels_logo.svg/608px-North_Carolina_Tar_Heels_logo.svg.png" alt="Sample screenshot" title="UNC Chapel Hill Logo" width="20">, where I honed my skills in a diverse array of technologies.
 
-<img src="https://myreadme.vercel.app/api/embed/chphoom?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+![Keaw's GitHub stats](https://github-readme-stats.vercel.app/api?username=chphoom&show_icons=true&theme=radical)
 
 ### 🚀 Now actively seeking opportunities in Software Engineering!
 
